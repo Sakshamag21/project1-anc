@@ -1,0 +1,60 @@
+.box1{
+    display: inline-block;
+    text-align: left;
+    
+    
+    background-color:rgb(236, 231, 231);
+    width: 260px;
+    
+    
+    border-radius: 10px;
+    font-size: medium;
+    
+    margin: 10px;
+    
+}
+ .image1{
+    width: 245px;
+    max-height: 24vh;
+    object-fit: contain;
+    
+
+    
+    
+} 
+.image2{
+    background-color: green;
+    width: 260px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  
+    margin: auto;
+   max-height:26vh;
+    padding: 5px;
+    
+    
+}
+ 
+.h1{
+    font-size: larger;
+    font-weight: 500;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 0px;
+    
+}
+
+.button{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    font-size: larger;
+    border: 0 solid;
+    margin-left: 9px;
+    margin-bottom: 9px;
+    
+}
+
+.button:hover{
+    font-size: x-large;
+}

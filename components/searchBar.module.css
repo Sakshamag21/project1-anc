@@ -1,0 +1,36 @@
+
+.bar{
+    
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100vw;
+    background-color: green;
+    height: 30vh;
+    
+}
+.searchBar {
+    font-family: inherit;
+    width: 30%;
+    border: 0;
+    border-bottom: 2px solid white;
+    outline: 0;
+    font-size: 1rem;
+    color: white;
+    padding: 7px 3px;
+    background: transparent;
+
+    
+}
+
+.searchBar::placeholder{
+    color: white;
+}
+
+
+
+
+
+
+
+
