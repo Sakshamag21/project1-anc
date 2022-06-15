@@ -4,7 +4,7 @@ import { Fragment } from "react";
 import { useState } from "react";
 import styles from './index.module.css'
 
-function asj(){
+function Asj(){
     const [cel,callB]=useState('');
     
     return (<Fragment><SearchBarf parentCallback={callB}/>
@@ -14,7 +14,7 @@ function asj(){
     )
 }
 
-export default asj;
+export default Asj;
 
 // import { Fragment } from 'react';
 // import classes from '../components/searchBar.module.css';
